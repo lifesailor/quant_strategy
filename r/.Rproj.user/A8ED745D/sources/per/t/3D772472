@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526072044578.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "740489525",
+    "id" : "3D772472",
+    "lastKnownWriteTime" : 1526113821,
+    "last_content_update" : 1526113821560,
+    "path" : "~/r_project/grf/all stat final.R",
+    "project_path" : "all stat final.R",
+    "properties" : {
+        "cursorPosition" : "3623,0",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "3616"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

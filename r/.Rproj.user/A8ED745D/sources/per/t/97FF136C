@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526137244929.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2103949656",
+    "id" : "97FF136C",
+    "lastKnownWriteTime" : 1526113822,
+    "last_content_update" : 1526113822,
+    "path" : "~/r_project/grf/4assts3.R",
+    "project_path" : "4assts3.R",
+    "properties" : {
+        "cursorPosition" : "16,12",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

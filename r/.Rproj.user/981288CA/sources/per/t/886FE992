@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526260201158.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "14|141|365|0|\n367|38|421|0|\n423|25|426|0|\n428|23|431|0|\n",
+    "hash" : "3264199855",
+    "id" : "886FE992",
+    "lastKnownWriteTime" : 1527349646,
+    "last_content_update" : -2147483648,
+    "path" : "~/grf/grp_helpers.R",
+    "project_path" : "grp_helpers.R",
+    "properties" : {
+        "cursorPosition" : "718,3",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526070808860.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4119994830",
+    "id" : "37D8935C",
+    "lastKnownWriteTime" : 1526138507,
+    "last_content_update" : 1526138507541,
+    "path" : "~/r_project/grf/FCI.R",
+    "project_path" : "FCI.R",
+    "properties" : {
+        "cursorPosition" : "76,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "52"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
